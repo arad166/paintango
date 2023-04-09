@@ -7,6 +7,14 @@
     width: 100%
 }
 
+[id^="meaning"]{
+    font-size: 30px;
+}
+
+#result{
+    font-size: 70px;
+}
+
 button{
     width: 100px;
     height: 100px;
@@ -14,16 +22,9 @@ button{
     font-family: 'Courier New';
 }
 
-#check{
-    width: 240px;
+#control{
+    width: 300px;
     height: 100px;
+    font-size: 40px;
     text-align: center;
 }
-.red {
-color: red;
-}
-
-.blue {
-color: blue;
-}
-  
