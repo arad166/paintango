@@ -19,11 +19,14 @@ header{
 }
 
 #result{
-    font-size: 70px;
+    font-size: 50px;
 }
 
 button{
-    width: 100px;
+    color:black;
+    margin-top: 10px;
+    border: 1px solid black;
+    width: 70px;
     height: 100px;
     font-size: 70px;
     font-family: 'Courier New';
